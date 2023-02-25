@@ -1,0 +1,22 @@
+{
+  "name": "front-end",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^5.11.9",
+    "@next/font": "13.2.1",
+    "bootstrap": "^5.2.3",
+    "formik": "^2.2.9",
+    "mdb-react-ui-kit": "^5.1.0",
+    "next": "13.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "yup": "^1.0.0"
+  }
+}
